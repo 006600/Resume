@@ -1,6 +1,6 @@
 /* ========================= Typing Animation ========================= */
 let typed = new Typed(".typing", {
-    strings:["New Graduate", "Fresh Graduate"],
+    strings:["looking for internship opportunities", "graduating in May 2023"],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
